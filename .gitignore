@@ -1,0 +1,7 @@
+# Exports hold participant data. Keep them out of the repo.
+*.json
+
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
