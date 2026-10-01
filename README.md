@@ -8,7 +8,7 @@ REX (Research EXtensions) is an open-source framework from BRIC for building bro
 
 1. **What a donor gives.** How much of the browsing history arrives as a full web address, as the site name only, or as a category such as "email" in place of the site.
 2. **When people browse and chat, and what a conversation looks like.** Activity by hour and weekday, prompts per conversation, and prompt length against reply length.
-3. **What the model does behind the scenes.** The model that actually answered, how long it reasoned, and hidden steps such as writing to its memory of the user. ChatGPT's own data download leaves these out.
+3. **What the model does behind the scenes.** The model that answered, how long it reasoned, and hidden steps such as writing to its memory of the user. ChatGPT's own data download leaves out the hidden steps and the exact reasoning times.
 4. **Whether people search before they ask.** Browsing in the half hour around each ChatGPT conversation, with sites grouped rather than named.
 
 ## What you need
